@@ -1,0 +1,9 @@
+C:\Users\truen\source\repos\AnotherCalculat\AnotherCalculat\bin\Debug\AnotherCalculat.exe.config
+C:\Users\truen\source\repos\AnotherCalculat\AnotherCalculat\bin\Debug\AnotherCalculat.exe
+C:\Users\truen\source\repos\AnotherCalculat\AnotherCalculat\bin\Debug\AnotherCalculat.pdb
+C:\Users\truen\source\repos\AnotherCalculat\AnotherCalculat\obj\Debug\AnotherCalculat.Form1.resources
+C:\Users\truen\source\repos\AnotherCalculat\AnotherCalculat\obj\Debug\AnotherCalculat.Properties.Resources.resources
+C:\Users\truen\source\repos\AnotherCalculat\AnotherCalculat\obj\Debug\AnotherCalculat.csproj.GenerateResource.cache
+C:\Users\truen\source\repos\AnotherCalculat\AnotherCalculat\obj\Debug\AnotherCalculat.exe
+C:\Users\truen\source\repos\AnotherCalculat\AnotherCalculat\obj\Debug\AnotherCalculat.pdb
+C:\Users\truen\source\repos\AnotherCalculat\AnotherCalculat\obj\Debug\AnotherCalculat.csprojAssemblyReference.cache
